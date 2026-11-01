@@ -67,13 +67,21 @@ Tenho interesse especial em **desenvolvimento Full Stack, arquitetura de aplica�
 
 ### Featured Projects
 
-**MedScan — AI-Powered Health Screening**
+### MEDSCAN — Organização pessoal de saúde com apoio de IA
 
-Aplicação de triagem orientativa que utiliza inteligência artificial para auxiliar na interpretação de exames, sintomas e informações de saúde.
+Plataforma web responsiva que reúne sintomas, exames, medicamentos, consultas e medições em um prontuário pessoal. Oferece orientação inicial por inteligência artificial e gera resumos para apoiar conversas com profissionais de saúde.
 
-`React Native` `Node.js` `MongoDB` `AI API`
+> Orientação, não diagnóstico.
 
-**Web Development & Landing Pages**
+**React Native · Expo · Node.js · Express · MongoDB · IA**
+
+[Projeto](https://medscan-h9jq.onrender.com)
+
+
+
+
+
+### Web Development & Landing Pages
 
 Desenvolvimento de interfaces modernas, responsivas e interativas para diferentes tipos de negócios.
 
