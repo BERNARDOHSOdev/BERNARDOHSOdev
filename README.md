@@ -1,70 +1,4 @@
 
-<div align="center">
-
-# Hi, I'm Bernardo Henrique 👋
-
-### Developer. Student. Builder.
-
-Estudante de Tecnologia da Informação | Desenvolvedor Full Stack
-
-![Profile](https://img.shields.io/badge/FOCUS-FULL%20STACK-8B5CF6?style=flat-square)
-![Status](https://img.shields.io/badge/STATUS-ALWAYS%20LEARNING-2563EB?style=flat-square)
-![Brazil](https://img.shields.io/badge/BASED%20IN-BRAZIL-059669?style=flat-square)
-
-</div>
-
----
-
-### About Me
-
-Sou estudante do Ensino Médio com Técnico Integrado em Tecnologia da Informação na **FUNEC Riacho**, em Minas Gerais.
-
-Tenho interesse em desenvolvimento de software, desde a criação de interfaces até a construção de sistemas, APIs e bancos de dados.
-
-Gosto de transformar ideias em projetos reais, explorar novas tecnologias e encontrar soluções para problemas através da programação.
-
-Atualmente, desenvolvo projetos web, aplicações e sistemas enquanto continuo aprimorando meus conhecimentos em tecnologia.
-
-### What Drives My Work
-
-Acredito que a melhor maneira de evoluir como desenvolvedor é colocando o conhecimento em prática.
-
-- Construir aplicações úteis e funcionais.
-- Explorar soluções criativas através do código.
-- Aprender novas tecnologias e boas práticas.
-- Evoluir tanto no Frontend quanto no Backend.
-
-Tenho interesse especial em **desenvolvimento Full Stack, arquitetura de aplicações e cibersegurança.**
-
----
-
-### Tech I Use
-
-**Languages & Web**
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-
-**Frameworks & Technologies**
-
-![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-404040?style=flat-square&logo=express&logoColor=white)
-
-**Databases & Tools**
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-
----
-
 ### Featured Projects
 
 ### MEDSCAN — Organização pessoal de saúde com apoio de IA
@@ -77,38 +11,91 @@ Plataforma web responsiva que reúne sintomas, exames, medicamentos, consultas e
 
 [Projeto](https://medscan-h9jq.onrender.com)
 
-
-
-
+<br>
+<br>
 
 ### Web Development & Landing Pages
 
 Desenvolvimento de interfaces modernas, responsivas e interativas para diferentes tipos de negócios.
 
-Projetos e demonstrações:
+#### Highlighted Projects
 
-- [Barbershop Website](https://model1barber.netlify.app/)
-- [Fitness Website](https://modeloacad.netlify.app/)
-- [Tattoo Studio Website](https://modelotatto.netlify.app/)
+<table>
+<tr>
+<td width="50%" align="center">
+
+<a href="https://model1barber.netlify.app/">
+<img src="https://s.wordpress.com/mshots/v1/https%3A%2F%2Fmodel1barber.netlify.app%2F?w=600&amp;h=350" width="100%" alt="Barbershop">
+</a>
+
+**Barbershop Website**
+
+Landing page para barbearia com design moderno e responsivo.
+
+[View Project](https://model1barber.netlify.app/)
+
+</td>
+<td width="50%" align="center">
+
+<a href="https://modelonobile.netlify.app/">
+<img src="https://s.wordpress.com/mshots/v1/https%3A%2F%2Fmodelonobile.netlify.app%2F?w=600&amp;h=350" width="100%" alt="Restaurant">
+</a>
+
+**Restaurant Website**
+
+Experiência visual imersiva para restaurantes.
+
+[View Project](https://modelonobile.netlify.app/)
+
+</td>
+</tr>
+<tr>
+<td width="50%" align="center">
+
+<a href="https://siteenergiasolar.netlify.app/">
+<img src="https://s.wordpress.com/mshots/v1/https%3A%2F%2Fsiteenergiasolar.netlify.app%2F?w=600&amp;h=350" width="100%" alt="Solar Energy">
+</a>
+
+**Solar Energy Website**
+
+Landing page para empresas de energia solar.
+
+[View Project](https://siteenergiasolar.netlify.app/)
+
+</td>
+<td width="50%" align="center">
+
+<a href="https://moveisdecasa.netlify.app/">
+<img src="https://s.wordpress.com/mshots/v1/https%3A%2F%2Fmoveisdecasa.netlify.app%2F?w=600&amp;h=350" width="100%" alt="Furniture">
+</a>
+
+**Furniture Website**
+
+Website elegante para apresentação de móveis e ambientes.
+
+[View Project](https://moveisdecasa.netlify.app/)
+
+</td>
+</tr>
+</table>
+
+<br>
+
+#### More Projects
+
+Outros projetos e demonstrações desenvolvidos:
+
+| Project | Live Demo |
+|---|---|
+| Barbershop — Model 2 | [View Website](https://modelo2barber.netlify.app/) |
+| Barbershop — Model 3 | [View Website](https://modelo3barber.netlify.app/) |
+| Fitness Website | [View Website](https://modeloacad.netlify.app/) |
+| Tattoo Studio | [View Website](https://modelotatto.netlify.app/) |
+| Massage Therapy | [View Website](https://modelomassoterapia.netlify.app/) |
+| Nail Design | [View Website](https://modelonaildesign.netlify.app/) |
+| Pet Shop | [View Website](https://modelopets.netlify.app/) |
+| Veterinary Clinic | [View Website](https://modelvet.netlify.app/) |
+| Auto Repair | [View Website](https://modelomecanico.netlify.app/) |
+| Construction Materials | [View Website](https://modelmateriais.netlify.app/) |
 
 ---
-
-### Currently Learning
-
-Estou sempre buscando evoluir meus conhecimentos, com foco em:
-
-- Desenvolvimento de APIs REST
-- Estruturas de dados e algoritmos
-- Arquitetura Backend
-- Banco de dados
-- Segurança da informação
-
----
-
-<div align="center">
-
-### Building, Learning & Improving.
-
-*Always learning. Always building.*
-
-</div>
