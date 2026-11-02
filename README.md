@@ -67,6 +67,10 @@ Tenho interesse especial em **desenvolvimento Full Stack, arquitetura de aplica�
 
 ### Featured Projects
 
+### Portfolio
+
+[Conheça meu portfólio](https://bernardohsoportifolio.vercel.app/)
+
 ### MEDSCAN — Organização pessoal de saúde com apoio de IA
 
 Plataforma web responsiva que reúne sintomas, exames, medicamentos, consultas e medições em um prontuário pessoal. Oferece orientação inicial por inteligência artificial e gera resumos para apoiar conversas com profissionais de saúde.
