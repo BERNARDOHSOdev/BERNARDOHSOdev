@@ -67,6 +67,9 @@ Tenho interesse especial em **desenvolvimento Full Stack, arquitetura de aplica�
 
 ### Featured Projects
 
+
+### Featured Projects
+
 ### MEDSCAN — Organização pessoal de saúde com apoio de IA
 
 Plataforma web responsiva que reúne sintomas, exames, medicamentos, consultas e medições em um prontuário pessoal. Oferece orientação inicial por inteligência artificial e gera resumos para apoiar conversas com profissionais de saúde.
@@ -88,75 +91,61 @@ Desenvolvimento de interfaces modernas, responsivas e interativas para diferente
 
 <table>
 <tr>
+<td width="50%" align="center" valign="top">
 
-<td width="50%" align="center">
-
-<a href="https://model1barber.netlify.app/">
-<img src="https://s.wordpress.com/mshots/v1/https%3A%2F%2Fmodel1barber.netlify.app%2F?w=600&amp;h=350" width="100%" alt="Barbershop Website">
+<a href="https://modelo3barber.netlify.app/">
+<img src="./assets/barbearia.png" width="100%" alt="Barbershop Website">
 </a>
 
-<br>
+<p><strong>Barbershop Website</strong></p>
 
-**Barbershop Website**
+<p>Landing page para barbearia com visual premium, animações e experiência interativa.</p>
 
-Landing page para barbearia com design moderno, animações e layout responsivo.
-
-[View Project](https://model1barber.netlify.app/)
+<a href="https://modelo3barber.netlify.app/">View Project</a>
 
 </td>
-
-<td width="50%" align="center">
+<td width="50%" align="center" valign="top">
 
 <a href="https://modelonobile.netlify.app/">
-<img src="https://s.wordpress.com/mshots/v1/https%3A%2F%2Fmodelonobile.netlify.app%2F?w=600&amp;h=350" width="100%" alt="Restaurant Website">
+<img src="./assets/restaurante.png" width="100%" alt="Restaurant Website">
 </a>
 
-<br>
+<p><strong>Restaurant Website</strong></p>
 
-**Restaurant Website**
+<p>Experiência visual imersiva para restaurantes, com foco em apresentação e identidade visual.</p>
 
-Experiência visual imersiva para restaurantes, com foco em apresentação e identidade visual.
-
-[View Project](https://modelonobile.netlify.app/)
+<a href="https://modelonobile.netlify.app/">View Project</a>
 
 </td>
-
 </tr>
 
 <tr>
-
-<td width="50%" align="center">
+<td width="50%" align="center" valign="top">
 
 <a href="https://siteenergiasolar.netlify.app/">
-<img src="https://s.wordpress.com/mshots/v1/https%3A%2F%2Fsiteenergiasolar.netlify.app%2F?w=600&amp;h=350" width="100%" alt="Solar Energy Website">
+<img src="./assets/energia-solar.png" width="100%" alt="Solar Energy Website">
 </a>
 
-<br>
+<p><strong>Solar Energy Website</strong></p>
 
-**Solar Energy Website**
+<p>Landing page moderna para empresas de energia solar, com seções dinâmicas e design responsivo.</p>
 
-Landing page moderna para empresas de energia solar, com seções dinâmicas e design responsivo.
-
-[View Project](https://siteenergiasolar.netlify.app/)
+<a href="https://siteenergiasolar.netlify.app/">View Project</a>
 
 </td>
-
-<td width="50%" align="center">
+<td width="50%" align="center" valign="top">
 
 <a href="https://moveisdecasa.netlify.app/">
-<img src="https://s.wordpress.com/mshots/v1/https%3A%2F%2Fmoveisdecasa.netlify.app%2F?w=600&amp;h=350" width="100%" alt="Furniture Website">
+<img src="./assets/moveis.png" width="100%" alt="Furniture Website">
 </a>
 
-<br>
+<p><strong>Furniture Website</strong></p>
 
-**Furniture Website**
+<p>Website elegante para apresentação de móveis e ambientes, com foco na experiência visual.</p>
 
-Website elegante para apresentação de móveis e ambientes, com foco na experiência visual.
-
-[View Project](https://moveisdecasa.netlify.app/)
+<a href="https://moveisdecasa.netlify.app/">View Project</a>
 
 </td>
-
 </tr>
 </table>
 
@@ -168,8 +157,8 @@ Outros projetos e demonstrações desenvolvidos para diferentes segmentos.
 
 | Project | Live Demo |
 |---|---|
+| Barbershop — Model 1 | [View Website](https://model1barber.netlify.app/) |
 | Barbershop — Model 2 | [View Website](https://modelo2barber.netlify.app/) |
-| Barbershop — Model 3 | [View Website](https://modelo3barber.netlify.app/) |
 | Fitness Website | [View Website](https://modeloacad.netlify.app/) |
 | Tattoo Studio | [View Website](https://modelotatto.netlify.app/) |
 | Massage Therapy | [View Website](https://modelomassoterapia.netlify.app/) |
@@ -180,6 +169,8 @@ Outros projetos e demonstrações desenvolvidos para diferentes segmentos.
 | Construction Materials | [View Website](https://modelmateriais.netlify.app/) |
 
 ---
+
+
 
 ### Currently Learning
 
