@@ -123,7 +123,7 @@ Desenvolvimento de interfaces modernas, responsivas e interativas para diferente
 <td width="50%" align="center" valign="top">
 
 <a href="https://siteenergiasolar.netlify.app/">
-<img src="./assets/energia-solar.png" width="100%" alt="Solar Energy Website">
+<img src="./assets/energia-solar.png?v=2" width="100%" alt="Solar Energy Website">
 </a>
 
 <p><strong>Solar Energy Website</strong></p>
@@ -136,7 +136,7 @@ Desenvolvimento de interfaces modernas, responsivas e interativas para diferente
 <td width="50%" align="center" valign="top">
 
 <a href="https://moveisdecasa.netlify.app/">
-<img src="./assets/moveis.png" width="100%" alt="Furniture Website">
+<img src="./assets/moveis.png?v=2" width="100%" alt="Furniture Website">
 </a>
 
 <p><strong>Furniture Website</strong></p>
