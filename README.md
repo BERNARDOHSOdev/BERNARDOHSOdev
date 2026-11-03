@@ -1,21 +1,23 @@
 
 <div align="center">
 
-# Hi, I'm Bernardo Henrique 👋
+# Olá, sou Bernardo Henrique 👋
 
-### Developer. Student. Builder.
+### Desenvolvedor. Estudante. Criador.
 
 Estudante de Tecnologia da Informação | Desenvolvedor Full Stack
 
-![Profile](https://img.shields.io/badge/FOCUS-FULL%20STACK-8B5CF6?style=flat-square)
-![Status](https://img.shields.io/badge/STATUS-ALWAYS%20LEARNING-2563EB?style=flat-square)
-![Brazil](https://img.shields.io/badge/BASED%20IN-BRAZIL-059669?style=flat-square)
+[🇧🇷 Português](README.md) · [🇺🇸 English](README.en.md)
+
+![Foco](https://img.shields.io/badge/FOCO-FULL%20STACK-8B5CF6?style=flat-square)
+![Status](https://img.shields.io/badge/STATUS-APRENDENDO%20SEMPRE-2563EB?style=flat-square)
+![Brasil](https://img.shields.io/badge/LOCALIZAÇÃO-BRASIL-059669?style=flat-square)
 
 </div>
 
 ---
 
-### About Me
+### Sobre mim
 
 Sou estudante do Ensino Médio com Técnico Integrado em Tecnologia da Informação na **FUNEC Riacho**, em Minas Gerais.
 
@@ -25,7 +27,7 @@ Gosto de transformar ideias em projetos reais, explorar novas tecnologias e enco
 
 Atualmente, desenvolvo projetos web, aplicações e sistemas enquanto continuo aprimorando meus conhecimentos em tecnologia.
 
-### What Drives My Work
+### O que me move
 
 Acredito que a melhor maneira de evoluir como desenvolvedor é colocando o conhecimento em prática.
 
@@ -38,9 +40,9 @@ Tenho interesse especial em **desenvolvimento Full Stack, arquitetura de aplica�
 
 ---
 
-### Tech I Use
+### Tecnologias
 
-**Languages**
+**Linguagens**
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -48,7 +50,7 @@ Tenho interesse especial em **desenvolvimento Full Stack, arquitetura de aplica�
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white)
 
-**Frontend Development**
+**Desenvolvimento Frontend**
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css&logoColor=white)
@@ -57,26 +59,26 @@ Tenho interesse especial em **desenvolvimento Full Stack, arquitetura de aplica�
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
-**Backend Development**
+**Desenvolvimento Backend**
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-404040?style=flat-square&logo=express&logoColor=white)
 ![REST APIs](https://img.shields.io/badge/REST_APIs-009688?style=flat-square)
 
-**Databases & BaaS**
+**Bancos de dados & BaaS**
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 
-**Tools & Version Control**
+**Ferramentas & controle de versão**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
-**Currently Learning**
+**Atualmente estudando**
 
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 ![Row Level Security](https://img.shields.io/badge/Row_Level_Security-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
@@ -84,9 +86,9 @@ Tenho interesse especial em **desenvolvimento Full Stack, arquitetura de aplica�
 
 ---
 
-### Featured Projects
+### Projetos em destaque
 
-### Portfolio
+### Portfólio
 
 [Conheça meu portfólio](https://bernardohsoportifolio.vercel.app/)
 
@@ -98,16 +100,16 @@ Plataforma web responsiva que reúne sintomas, exames, medicamentos, consultas e
 
 **React Native · Expo · Node.js · Express · MongoDB · IA**
 
-[View Project](https://medscan-h9jq.onrender.com)
+[Ver projeto](https://medscan-h9jq.onrender.com)
 
 <br>
 <br>
 
-### Web Development & Landing Pages
+### Desenvolvimento Web & Landing Pages
 
 Desenvolvimento de interfaces modernas, responsivas e interativas para diferentes tipos de negócios.
 
-#### Highlighted Projects
+#### Projetos em destaque
 
 <table>
 <tr>
@@ -115,17 +117,17 @@ Desenvolvimento de interfaces modernas, responsivas e interativas para diferente
 <td width="50%" align="center" valign="top">
 
 <a href="https://modelo3barber.netlify.app/">
-<img src="https://images.weserv.nl/?url=raw.githubusercontent.com/BERNARDOHSOdev/BERNARDOHSOdev/main/assets/barbearia.png&amp;w=900&amp;h=506&amp;fit=cover" width="100%" alt="Barbershop Website">
+<img src="https://images.weserv.nl/?url=raw.githubusercontent.com/BERNARDOHSOdev/BERNARDOHSOdev/main/assets/barbearia.png&amp;w=900&amp;h=506&amp;fit=cover" width="100%" alt="Site para barbearia">
 </a>
 
-<p align="center"><strong>Barbershop Website</strong></p>
+<p align="center"><strong>Site para barbearia</strong></p>
 
 <p align="center">
 Landing page para barbearia com visual premium, animações e experiência interativa.
 </p>
 
 <p align="center">
-<a href="https://modelo3barber.netlify.app/">View Project</a>
+<a href="https://modelo3barber.netlify.app/">Ver projeto</a>
 </p>
 
 </td>
@@ -133,17 +135,17 @@ Landing page para barbearia com visual premium, animações e experiência inter
 <td width="50%" align="center" valign="top">
 
 <a href="https://modelonobile.netlify.app/">
-<img src="https://images.weserv.nl/?url=raw.githubusercontent.com/BERNARDOHSOdev/BERNARDOHSOdev/main/assets/restaurante.png&amp;w=900&amp;h=506&amp;fit=cover" width="100%" alt="Restaurant Website">
+<img src="https://images.weserv.nl/?url=raw.githubusercontent.com/BERNARDOHSOdev/BERNARDOHSOdev/main/assets/restaurante.png&amp;w=900&amp;h=506&amp;fit=cover" width="100%" alt="Site para restaurante">
 </a>
 
-<p align="center"><strong>Restaurant Website</strong></p>
+<p align="center"><strong>Site para restaurante</strong></p>
 
 <p align="center">
 Website sofisticado para restaurantes, com foco em experiência visual e identidade.
 </p>
 
 <p align="center">
-<a href="https://modelonobile.netlify.app/">View Project</a>
+<a href="https://modelonobile.netlify.app/">Ver projeto</a>
 </p>
 
 </td>
@@ -155,17 +157,17 @@ Website sofisticado para restaurantes, com foco em experiência visual e identid
 <td width="50%" align="center" valign="top">
 
 <a href="https://siteenergiasolar.netlify.app/">
-<img src="https://images.weserv.nl/?url=raw.githubusercontent.com/BERNARDOHSOdev/BERNARDOHSOdev/main/assets/energia-solar.png&amp;w=900&amp;h=506&amp;fit=cover" width="100%" alt="Solar Energy Website">
+<img src="https://images.weserv.nl/?url=raw.githubusercontent.com/BERNARDOHSOdev/BERNARDOHSOdev/main/assets/energia-solar.png&amp;w=900&amp;h=506&amp;fit=cover" width="100%" alt="Site de energia solar">
 </a>
 
-<p align="center"><strong>Solar Energy Website</strong></p>
+<p align="center"><strong>Site de energia solar</strong></p>
 
 <p align="center">
 Landing page para energia solar com hero imersivo, animações e design responsivo.
 </p>
 
 <p align="center">
-<a href="https://siteenergiasolar.netlify.app/">View Project</a>
+<a href="https://siteenergiasolar.netlify.app/">Ver projeto</a>
 </p>
 
 </td>
@@ -173,17 +175,17 @@ Landing page para energia solar com hero imersivo, animações e design responsi
 <td width="50%" align="center" valign="top">
 
 <a href="https://moveisdecasa.netlify.app/">
-<img src="https://images.weserv.nl/?url=raw.githubusercontent.com/BERNARDOHSOdev/BERNARDOHSOdev/main/assets/moveis.png&amp;w=900&amp;h=506&amp;fit=cover" width="100%" alt="Furniture Website">
+<img src="https://images.weserv.nl/?url=raw.githubusercontent.com/BERNARDOHSOdev/BERNARDOHSOdev/main/assets/moveis.png&amp;w=900&amp;h=506&amp;fit=cover" width="100%" alt="Site de móveis">
 </a>
 
-<p align="center"><strong>Furniture Website</strong></p>
+<p align="center"><strong>Site para loja de móveis</strong></p>
 
 <p align="center">
 Landing page de móveis com visual refinado, ambientação e estética moderna.
 </p>
 
 <p align="center">
-<a href="https://moveisdecasa.netlify.app/">View Project</a>
+<a href="https://moveisdecasa.netlify.app/">Ver projeto</a>
 </p>
 
 </td>
@@ -193,26 +195,26 @@ Landing page de móveis com visual refinado, ambientação e estética moderna.
 
 <br>
 
-#### More Projects
+#### Mais projetos
 
 Outros projetos e demonstrações desenvolvidos para diferentes segmentos.
 
-| Project | Live Demo |
+| Projeto | Demonstração |
 |---|---|
-| Barbershop — Model 1 | [View Website](https://model1barber.netlify.app/) |
-| Barbershop — Model 2 | [View Website](https://modelo2barber.netlify.app/) |
-| Fitness Website | [View Website](https://modeloacad.netlify.app/) |
-| Tattoo Studio | [View Website](https://modelotatto.netlify.app/) |
-| Massage Therapy | [View Website](https://modelomassoterapia.netlify.app/) |
-| Nail Design | [View Website](https://modelonaildesign.netlify.app/) |
-| Pet Shop | [View Website](https://modelopets.netlify.app/) |
-| Veterinary Clinic | [View Website](https://modelvet.netlify.app/) |
-| Auto Repair | [View Website](https://modelomecanico.netlify.app/) |
-| Construction Materials | [View Website](https://modelmateriais.netlify.app/) |
+| Barbearia — Modelo 1 | [Ver site](https://model1barber.netlify.app/) |
+| Barbearia — Modelo 2 | [Ver site](https://modelo2barber.netlify.app/) |
+| Academia | [Ver site](https://modeloacad.netlify.app/) |
+| Estúdio de tatuagem | [Ver site](https://modelotatto.netlify.app/) |
+| Massoterapia | [Ver site](https://modelomassoterapia.netlify.app/) |
+| Nail design | [Ver site](https://modelonaildesign.netlify.app/) |
+| Pet shop | [Ver site](https://modelopets.netlify.app/) |
+| Clínica veterinária | [Ver site](https://modelvet.netlify.app/) |
+| Oficina mecânica | [Ver site](https://modelomecanico.netlify.app/) |
+| Materiais de construção | [Ver site](https://modelmateriais.netlify.app/) |
 
 ---
 
-### Currently Learning
+### Atualmente estudando
 
 Estou sempre buscando evoluir meus conhecimentos, com foco em:
 
@@ -226,8 +228,8 @@ Estou sempre buscando evoluir meus conhecimentos, com foco em:
 
 <div align="center">
 
-### Building, Learning & Improving.
+### Construindo, aprendendo e evoluindo.
 
-*Always learning. Always building.*
+*Sempre aprendendo. Sempre construindo.*
 
 </div>
